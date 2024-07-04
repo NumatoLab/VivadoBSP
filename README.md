@@ -1,2 +1,8 @@
-# VivadoBSP
-The BSP for AMD FPGA
+# Numato Board Support Files for Xilinx Vivado
+
+ 
+#### For Xilinx Vivado v2021 and later
+* Copy these folders to <path_to_Vivado>/\<version>/data/xhub/boards/XilinxBoardStore/boards/<BSP folder>.  
+
+
+**Note:** Depending on your Vivado version and Vivado installation directory, your path might be different. Please change it as per your environment.
