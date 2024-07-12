@@ -1,0 +1,37 @@
+{
+  "config": {
+    "items": [
+      {
+        "infra": {
+          "name": "Artix_Ultrascale_SOM",
+          "display": "EagleCore Artix Ultrascale+ FPGA SOM",
+          "revision": "1.0",
+          "description": "EagleCore Artix Ultrascale+ FPGA SOM Module",
+          "company": "numato.com",
+          "company_display": "Numato lab",
+          "author": "Megha",
+          "contributors": [
+            {
+              "group": "Numato Lab",
+              "url": "www.numato.com/"
+            }
+          ],
+          "category": "Single Part",
+          "website": "https://numato.com/product/eaglecore-artix-ultrascale-fpga-som/", 
+          "logo": "Artix_Ultrascale_SOM.jpg",
+          "search-keywords": [
+            "Artix_Ultrascale_SOM",
+            "numato.com",
+            "SOM Module",
+            "AU25P",
+            "Numato lab",
+            "EagleCore"
+            
+          ]
+        }
+      }
+    ]
+  },
+  "_major": 1,
+  "_minor": 0
+}
