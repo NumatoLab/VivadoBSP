@@ -1,0 +1,35 @@
+{
+  "config": {
+    "items": [
+      {
+        "infra": {
+          "name": "Aller_Artix_Ultrascale",
+          "display": "Aller Artix Ultrascale+ FPGA",
+          "revision": "1.0",
+          "description": "Aller Artix Ultrascale+ FPGA Board",
+          "company": "numato.com",
+          "company_display": "Numato lab",
+          "author": "Megha",
+          "contributors": [
+            {
+              "group": "Numato Lab",
+              "url": "www.numato.com/"
+            }
+          ],
+          "category": "Single Part",
+          "website": "https://numato.com/product/eaglecore-artix-ultrascale-fpga-som/", 
+          "logo": "",
+          "search-keywords": [
+            "Artix_Ultrascale",
+            "numato.com",
+            "AU15P",
+            "Numato lab"
+            
+          ]
+        }
+      }
+    ]
+  },
+  "_major": 1,
+  "_minor": 0
+}
