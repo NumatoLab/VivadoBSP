@@ -1,7 +1,7 @@
-# Numato Board Support Files for Xilinx Vivado
+# Numato Board Support Files for AMD Vivado
 
  
-#### For Xilinx Vivado v2021 and later
+#### For AMD Vivado v2021 and later
 * Copy these folders to <path_to_Vivado>/\<version>/data/xhub/boards/XilinxBoardStore/boards/BSP_folder.  
 
 

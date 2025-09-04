@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?> 
 <board schema_version="2.0" vendor="numato.com" name="Narvi" display_name="Narvi" url="www.numato.com/" preset_file="preset.xml" >
 <images>
-  <image name="" display_name="Narvi Spartan7 BOARD" sub_type="board">
+  <image name="Narvi.png" display_name="Narvi Spartan7 BOARD" sub_type="board">
     <description>Narvi Spartan7 Board File Image</description>
   </image>
 </images>

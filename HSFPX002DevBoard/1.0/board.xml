@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?> 
 <board schema_version="2.0" vendor="numato.com" name="HSFPX002_DevBoard" display_name="HSFPX002_DevBoard" url="www.numato.com/" preset_file="preset.xml" >
 <images>
-  <image name="" display_name="HSFPX002 Dev Board" sub_type="board">
-    <description>Callisto Kintex7 Board File Image</description>
+  <image name="HSFPX002.png" display_name="HSFPX002 Dev Board" sub_type="board">
+    <description>HSFPX002_DevBoard File Image</description>
   </image>
 </images>
 <compatible_board_revisions>

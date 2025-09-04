@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?> 
 <board schema_version="2.0" vendor="numato.com" name="CallistoK7" display_name="CallistoK7" url="www.numato.com/" preset_file="preset.xml" >
 <images>
-  <image name="" display_name="Callisto Kintex7 BOARD" sub_type="board">
-    <description>Callisto Kintex7 Board File Image</description>
+  <image name="Callisto.png" display_name="Callisto Kintex7 BOARD" sub_type="board">
+    <description>Callisto Kintex7 Board</description>
   </image>
 </images>
 <compatible_board_revisions>
