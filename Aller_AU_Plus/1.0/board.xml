@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?> 
 <board schema_version="2.2" vendor="numato.com" name="Aller_AU_Plus" display_name="Aller_AU_Plus" url="www.numato.com/" preset_file="preset.xml" supports_ced="false">
 <images>
-  <image name="Aller_AU_Plus" display_name="Aller AU Plus" sub_type="board">
+  <image name="Aller.png" display_name="Aller AU Plus" sub_type="board">
     <description>Aller AU Plus FPGA File Image</description>
   </image>
 </images>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?> 
 <board schema_version="2.0" vendor="numato.com" name="Mimas_S7_Lite" display_name="Mimas_S7_Lite" url="www.numato.com/" preset_file="preset.xml" >
 <images>
-  <image name="" display_name="Mimas Spartan7 Lite BOARD" sub_type="board">
+  <image name="MimasS7Lite.png" display_name="Mimas Spartan7 Lite BOARD" sub_type="board">
     <description>Mimas Spartan7 Lite Board File Image</description>
   </image>
 </images>
